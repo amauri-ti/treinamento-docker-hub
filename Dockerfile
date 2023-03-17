@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER amauri amauri.tisoft@gmail.com
+MAINTAINER wlemos wagnerlemoscosta@gmail.com
 LABEL Description = "Conteiner do curso"
 LABEL class ="Laboratorio"
 EXPOSE 80
