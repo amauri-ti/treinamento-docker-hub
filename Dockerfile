@@ -1,6 +1,6 @@
 FROM nginx
 MAINTAINER amauri amauri.tisoft@gmail.com
-LABEL Description = "Conteiner do curso"
+LABEL Description = "Conteiner do curso orlando"
 LABEL class ="Laboratorio"
 EXPOSE 80
 USER root
