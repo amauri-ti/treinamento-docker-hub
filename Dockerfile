@@ -1,7 +1,7 @@
 FROM nginx
 MAINTAINER amauri amauri.tisoft@gmail.com
-LABEL Description = "Conteiner do curso"
-LABEL class ="Laboratorio"
+LABEL Description = "Conteiner do curso do Kaique"
+LABEL class ="Laboratorio DBZ"
 EXPOSE 80
 USER root
 VOLUME ["/usr/share/nginx/html"]
